@@ -1,0 +1,3 @@
+[{"title":"Corolla Cross","price":70000,"thumbnail":"https://http2.mlstatic.com/D_NQ_NP_708035-MLA50207047549_062022-O.webp","id":1},
+{"title":"Corolla","price":50000,"thumbnail":"https://http2.mlstatic.com/D_NQ_NP_708035-MLA50207047549_062022-O.webp","id":2},
+{"title":"Corolla","price":50000,"thumbnail":"https://http2.mlstatic.com/D_NQ_NP_708035-MLA50207047549_062022-O.webp","id":3}]
